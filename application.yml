@@ -1,13 +1,2 @@
-logging:
-  level:
-    io:
-      spring:
-        cloud:
-          samples: INFO
-
 fortune:
   fallbackFortune: Your future is unclear.
-
-eureka:
-  instance:
-    leaseRenewalIntervalInSeconds: 10
