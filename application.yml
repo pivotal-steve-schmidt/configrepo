@@ -1,2 +1,9 @@
 fortune:
   fallbackFortune: Your future is bright!
+  
+logging:
+  level:
+    io:
+      spring:
+        cloud:
+          samples: DEBUG
